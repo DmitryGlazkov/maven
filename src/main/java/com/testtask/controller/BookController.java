@@ -1,8 +1,8 @@
 package com.testtask.controller;
 
 
+import com.testtask.component.BookRepository;
 import com.testtask.model.Book;
-import com.testtask.repository.BookRepository;
 import com.testtask.util.Selection;
 import com.testtask.util.impl.BookSelection;
 
